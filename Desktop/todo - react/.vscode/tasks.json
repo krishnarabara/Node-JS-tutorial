@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "todo-react",
+			"problemMatcher": [],
+			"label": "npm: start - todo-react",
+			"detail": "react-scripts start"
+		}
+	]
+}
